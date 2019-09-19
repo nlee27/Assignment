@@ -1,0 +1,7 @@
+F:\Nehali Job Applications\Indue\Assignment\Assignment\bin\Debug\Assignment.exe.config
+F:\Nehali Job Applications\Indue\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\Nehali Job Applications\Indue\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\Nehali Job Applications\Indue\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+F:\Nehali Job Applications\Indue\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+F:\Nehali Job Applications\Indue\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\Nehali Job Applications\Indue\Assignment\Assignment\obj\Debug\Assignment.pdb
